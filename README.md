@@ -168,3 +168,4 @@ Shortcuts
 | `mk` | Go to prev bookmark | **\[n]** |
 | `mc` | Clear bookmarks | **\[n]** |
 | `mx` | Clear all bookmarks | **\[n]** |
+
